@@ -1,5 +1,5 @@
 {
-  "name": "next-auth-steam",
+  "name": "@1kemalozturk/next-auth-steam",
   "license": "WTFPL",
   "version": "0.3.0",
   "description": "Steam authentication provider for next-auth",
